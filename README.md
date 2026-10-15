@@ -46,7 +46,6 @@ The analysis includes:
 - Total Profit
 - Total Orders
 - Total Customers
-- Average Order Value
 - Sales by Category
 - Profit by Category
 - Sales by Region
