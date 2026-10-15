@@ -47,14 +47,8 @@ The analysis includes:
 - Total Orders
 - Total Customers
 - Sales by Category
-- Profit by Category
-- Sales by Region
 - Profit by Region
-- Top 10 Products by Sales
-- Top 10 Customers by Sales
-- Top 10 Customers by Profit
-- Average Shipping Days
-- Average Profit by Discount
+- Top 10 Products by sales
 
 ---
 
