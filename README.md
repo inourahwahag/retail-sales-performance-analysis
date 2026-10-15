@@ -99,4 +99,5 @@ retail-sales-performance-analysis/
 
 ## Dashboard Preview
 
-*A screenshot of the Power BI dashboard will be added here.*
+<img width="896" height="504" alt="Screenshot 2026-10-15 at 6 09 18 pm" src="https://github.com/user-attachments/assets/8659ea8e-7e56-47c6-a217-eacc4419a574" />
+
