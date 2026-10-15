@@ -1,5 +1,7 @@
 # Retail Sales Performance Analysis
 
+## Dashboard Preview
+<img width="896" height="504" alt="Retail Sales Performance Dashboard" src="https://github.com/user-attachments/assets/55591616-394b-40e0-a056-8f5846aca2e4" />
 ## Overview
 
 This project analyzes retail sales data using Python and Power BI to explore business performance and present key insights through an interactive dashboard.
@@ -90,9 +92,3 @@ retail-sales-performance-analysis/
 - Power BI
 
 ---
-
-## Dashboard Preview
-
-<img width="896" height="504" alt="Retail Sales Performance Dashboard" src="https://github.com/user-attachments/assets/55591616-394b-40e0-a056-8f5846aca2e4" />
-
-
