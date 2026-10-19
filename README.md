@@ -1,7 +1,8 @@
 # Retail Sales Performance Analysis
 
 ## Dashboard Preview
-<img width="896" height="504" alt="Retail Sales Performance Dashboard" src="https://github.com/user-attachments/assets/55591616-394b-40e0-a056-8f5846aca2e4" />
+<img width="883" height="497" alt="Screenshot 2026-10-19 at 5 25 41 pm" src="https://github.com/user-attachments/assets/2e2fdada-998e-444d-bc7f-9e08d0e4a5bd" />
+
 
 
 ## Overview
